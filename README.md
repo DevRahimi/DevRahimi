@@ -1,19 +1,16 @@
-Hi 👋 My name is Ahmed Rahimi
-=============================
+# Hi 👋 My name is Ahmed Rahimi
 
-Junior Front-end Developer
---------------------------
+## Junior Front-end Developer
 
 I started coding at the beginning of 2023 with the intention of pursuing back-end development. However, since learning some of the basics of back-end, mainly Python and Django, i've discovered a passion for developing content that users interact with directly. As a result, I have transitioned to learning front-end technologies!
 
-* 🌍  I'm based in Bahrain
-* 🖥️ My portfolio will be live soon!
-* ✉️  You can contact me at [ahmedmrahimi@gmail.com](mailto:ahmedmrahimi@gmail.com)
-* 🧠  I'm learning JavaScript and next, React
-* 🤝  I'm open to collaborating on projects that will improve my capabilities in front-end technologies
+- 🌍  I'm based in Bahrain
+- 🖥️ My portfolio will be live soon!
+- ✉️  You can contact me at [ahmedmrahimi@gmail.com](mailto:ahmedmrahimi@gmail.com)
+- 🧠  I'm currently learning TypeScript and React!
+- 🤝 I'm open to collaborating on projects that will improve my capabilities in front-end technologies
 
-
-### Skills  
+### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -32,8 +29,7 @@ I started coding at the beginning of 2023 with the intention of pursuing back-en
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>&nbsp;
-</p> 
-
+</p>
 
 ### Socials
 
