@@ -38,7 +38,6 @@ I started coding at the beginning of 2023 with the intention of pursuing back-en
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>&nbsp;
-
 </p>
 
 ## Socials
