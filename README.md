@@ -4,10 +4,10 @@
 
 I started coding at the beginning of 2023 with the intention of pursuing back-end development. However, since learning some of the basics of back-end, mainly Python and Django, i've discovered a passion for developing content that users interact with directly. As a result, I have transitioned to learning front-end technologies!
 
-- 🌍  I'm based in Bahrain
+- 🌍  I'm based in Cape Town, South Africa 🇿🇦
 - 🖥️ See my portfolio at [devrahimi.vercel.app](https://devrahimi.vercel.app)
 - ✉️  You can contact me at [ahmedmrahimi@gmail.com](mailto:ahmedmrahimi@gmail.com)
-- 🧠  I'm currently learning TypeScript and React!
+- 🧠  I'm currently learning React Router DOM and Firebase!
 - 🤝 I'm open to collaborating on projects that will improve my capabilities in front-end technologies
 
 ## Skills
